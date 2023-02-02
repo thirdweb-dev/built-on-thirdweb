@@ -1,1 +1,1 @@
-# built-on-thirdweb
+# Built on thirdweb
