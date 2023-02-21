@@ -20,6 +20,6 @@
       "@": ["src"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "scripts/convert.js", "getIndustries.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "scripts/generate.js", "getIndustries.js"],
   "exclude": ["node_modules"]
 }

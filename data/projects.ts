@@ -1019,4 +1019,134 @@ export const projects: ProjectType[] = [
     dashboardURL:
       "https://thirdweb.com/polygon/0xb83638045cd6f9417e8fdeddd22b1fa0188600d3/",
   },
+  {
+    title: "CoinRunner",
+    url: "https://readyplayer3.devpost.com/submissions/390906-coinrunner",
+    description: "Gaming",
+  },
+  {
+    title: "Project Haven",
+    url: "https://readyplayer3.devpost.com/submissions/389543-project-haven",
+    description: "Gaming",
+  },
+  {
+    title: "AYATORI",
+    url: "https://readyplayer3.devpost.com/submissions/390897-ayatori",
+    description: "Gaming",
+  },
+  {
+    title: "Happy Honu",
+    url: "https://readyplayer3.devpost.com/submissions/383127-happy-honu",
+    description: "Gaming",
+  },
+  {
+    title: "Zk-League",
+    url: "https://readyplayer3.devpost.com/submissions/390919-zk-league",
+    description: "Gaming",
+  },
+  {
+    title: "Hack Or Die",
+    url: "https://readyplayer3.devpost.com/submissions/390704-hack-or-die",
+    description: "Gaming",
+  },
+  {
+    title: "Hack Or Die",
+    url: "https://readyplayer3.devpost.com/submissions/390704-hack-or-die",
+    description: "Gaming",
+  },
+  {
+    title: "Okan",
+    url: "https://readyplayer3.devpost.com/submissions/390901-okan",
+    description: "Gaming",
+  },
+  {
+    title: "Soul Wars",
+    url: "https://readyplayer3.devpost.com/submissions/383710-soul-wars",
+    description: "Gaming",
+  },
+  {
+    title: "HabiPet",
+    url: "https://readyplayer3.devpost.com/submissions/390927-habipet",
+    description: "Gaming",
+  },
+  {
+    title: "thirdWeb Hill Climb",
+    url: "https://readyplayer3.devpost.com/submissions/390926-thirdweb-hill-climb",
+    description: "Gaming",
+  },
+  {
+    title: "Crypto Racers",
+    url: "https://readyplayer3.devpost.com/submissions/390923-crypto-racers",
+    description: "Gaming",
+  },
+  {
+    title: "Momentum",
+    url: "https://readyplayer3.devpost.com/submissions/389329-momentum",
+    description: "Gaming",
+  },
+  {
+    title: "Surviving Mars",
+    url: "https://readyplayer3.devpost.com/submissions/390862-surviving-mars",
+    description: "Gaming",
+  },
+  {
+    title: "Howitzer",
+    url: "https://readyplayer3.devpost.com/submissions/383162-howitzer",
+    description: "Gaming",
+  },
+  {
+    title: "Third web runner",
+    url: "https://readyplayer3.devpost.com/submissions/390909-third-web-runner",
+    description: "Gaming",
+  },
+  {
+    title: "SKY GODZ Stardapp",
+    url: "https://readyplayer3.devpost.com/submissions/390908-sky-godz-stardapp",
+    description: "Gaming",
+  },
+  {
+    title: "21 Decentralized Multiplayer Card Game",
+    url: "https://readyplayer3.devpost.com/submissions/390604-21-decentralized-multiplayer-card-game",
+    description: "Gaming",
+  },
+  {
+    title: "Space Frontier",
+    url: "https://readyplayer3.devpost.com/submissions/390872-space-frontier",
+    description: "Gaming",
+  },
+  {
+    title: "Bounty Bonanza Game",
+    url: "https://readyplayer3.devpost.com/submissions/388731-bounty-bonanza-game",
+    description: "Gaming",
+  },
+  {
+    title: "Bokeverse",
+    url: "https://readyplayer3.devpost.com/submissions/383020-bokeverse",
+    description: "Gaming",
+  },
+  {
+    title: "w3badge",
+    url: "https://readyplayer3.devpost.com/submissions/384389-w3badge",
+    description: "Gaming",
+  },
+  {
+    title: "E(AR)TH Web3 Game",
+    url: "https://readyplayer3.devpost.com/submissions/389337-e-ar-th-web3-game",
+    description: "Gaming",
+  },
+  {
+    title: "Diamond Hand’s",
+    url: "https://readyplayer3.devpost.com/submissions/383141-diamond-hand-s",
+    description: "Gaming",
+  },
+  {
+    title: "Luft",
+    url: "https://readyplayer3.devpost.com/submissions/388848-luft",
+    description: "Gaming",
+  },
+  {
+    title: "Neon Metropolis",
+    url: "https://readyplayer3.devpost.com/submissions/383145-neon-metropolis",
+    description: "Gaming",
+  },
 ];
