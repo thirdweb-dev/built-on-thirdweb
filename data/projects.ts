@@ -17,7 +17,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "The 888TOWER CLUB is the very first real profit maker skyscrapper in metaverse. It’s a multi-activity tower with specific floors for entertainment, work and information. Service spaces designed for the B2B as well as B2C market.",
-    industry: ["Marketplace", "Media/Music/Video"],
+    industry: ["Marketplace", "Media"],
   },
   {
     title: "Aker Elite Pass BNI",
@@ -51,7 +51,7 @@ export const projects: ProjectType[] = [
     FeaturesUsed: "NFT Drop",
     Blockchain: "Polygon",
     description: "AI Art Generator",
-    industry: ["Generative Art"],
+    industry: ["Art"],
   },
   {
     title: "Asian Girlz",
@@ -75,7 +75,7 @@ export const projects: ProjectType[] = [
     FeaturesUsed: "NFT Drop",
     description:
       "AZITO Land Deed NFT - with this collection, holders can own a land in AZITO, a metaverse concept - where members can chat, work on projects. AZITO has a lot of future projects lined up.",
-    industry: ["Creative Art", "Generative Art", "Metaverse"],
+    industry: ["Art", "Art", "Metaverse"],
   },
   {
     title: "Black Heart Saints",
@@ -147,7 +147,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "Fully interactive AudioNFT collection of original 1/1 music created by digital music composer iamMozart. Listen, control, play and record. Become a CMPOSER",
-    industry: ["Media/Music/Video"],
+    industry: ["Media"],
   },
   {
     title: "Codems",
@@ -173,7 +173,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "Artist-led, community-focused digital collectibles project by @0xGrokko",
-    industry: ["Generative Art", "PFP"],
+    industry: ["Art", "PFP"],
   },
   {
     title: "Crypto Girls Club",
@@ -234,7 +234,7 @@ export const projects: ProjectType[] = [
   {
     title: "Elements",
     url: "https://www.codeisart.xyz/",
-    industry: ["Generative Art"],
+    industry: ["Art"],
     dashboardURL:
       "https://thirdweb.com/ethereum/0xf873581b3c3e840e24c55024e8e9be865f94dc27/",
   },
@@ -290,7 +290,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "GASX is a visualization of the gas burned during the mint. Created using procedural textures in Blender, each volume is unique, with 34 colour variations.",
-    industry: ["Generative Art"],
+    industry: ["Art"],
   },
   {
     title: "Geeky Pet NFT",
@@ -331,7 +331,7 @@ export const projects: ProjectType[] = [
     url: "https://gumbit.xyz",
     FeaturesUsed: "NFT Drop",
     Blockchain: "Ethereum",
-    industry: ["Generative Art"],
+    industry: ["Art"],
     dashboardURL:
       "https://thirdweb.com/ethereum/0x8943db33e87ef24fd492452f6b19a56762d9d17b/",
   },
@@ -362,7 +362,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "Launching a limited collection of 777 3D Generative Sneakers for the exclusive community of Fashion & Art NFT collectors. This collection was designed with incredible precision and thoughtful color combinations in partnership with industry veteran Victoria Horning!",
-    industry: ["Fashion", "Generative Art"],
+    industry: ["Fashion", "Art"],
   },
   {
     title: "HunnysNFT",
@@ -398,7 +398,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Polygon",
     description:
       "Kiwami is a next-generation collective of artists, builders, and rule-breakers. Carefully designed in the metaverse & born in Japan, Kiwami is redefining what it means to be an authentic brand. For those who are Kiwami; extreme, loyal, driven, and ineffable⎯ you've found your people.",
-    industry: ["Media/Music/Video", "Metaverse"],
+    industry: ["Media", "Metaverse"],
     dashboardURL:
       "https://thirdweb.com/polygon/0x0ab812cd5f162ad06786ac75bd746e17e5a95552/",
   },
@@ -439,7 +439,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "Cloud Yachts is the first digital yacht dealer to the metaverse. It's somewhat like a token gated approach to attending yacht parties, living on yachts and more.",
-    industry: ["Creative Art", "Marketplace", "Metaverse"],
+    industry: ["Art", "Marketplace", "Metaverse"],
     dashboardURL:
       "https://thirdweb.com/ethereum/0x1b72098f022e5cbe971ec118fde5afda81b311ec/",
   },
@@ -537,7 +537,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "NG artworks are a limited collection of 1,111 hand-crafted artworks that encapsulate crypto culture and pay homage to its contributors. The process combines glitch, animation, sculpting and 3D modeling with rigorous curation.",
-    industry: ["Creative Art", "Media/Music/Video"],
+    industry: ["Art", "Media"],
     dashboardURL:
       "https://thirdweb.com/ethereum/0x6e941b9f70bc34bd0083c1088603c3a5b0b2ab17/",
   },
@@ -583,7 +583,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "PA Club's greater goal is to build a vehicle which improves the health and wellbeing of those who are touched by our brand.",
-    industry: ["Creative Art", "Health"],
+    industry: ["Art", "Health"],
     dashboardURL:
       "https://thirdweb.com/ethereum/0x85829bf847f0e9417065a22a1b73b35bbc3dc535/sources",
   },
@@ -645,7 +645,7 @@ export const projects: ProjectType[] = [
     FeaturesUsed: "NFT Drop",
     Blockchain: "Ethereum",
     description: "Exclusive access to Leonard Combier's work",
-    industry: ["Generative Art"],
+    industry: ["Art"],
     dashboardURL:
       "https://thirdweb.com/ethereum/0x4a8dc1ecc1d5b7438324e3aa71b978671e4f1fa3/",
   },
@@ -671,7 +671,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "Sad As Duck is a collection of 3,333 unique NFTS based off of our most popular design, ever.Each NFT is programmatically generated from over 115 possible traits, stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.Owning a Sadderday® NFT comes with both digital & real-world benefits.",
-    industry: ["Fashion", "Generative Art", "PFP"],
+    industry: ["Fashion", "Art", "PFP"],
     dashboardURL:
       "https://thirdweb.com/dashboard/ethereum/0x4a8d9b27d3562d6b945ab3d361dbb42e51630341/",
   },
@@ -682,7 +682,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "Scaredy Cubits are cubical beings lost in our spherical world. They’re easily startled, so we don’t know how to tell them they belong to a collection of 500 NFTs designed by 3D art guru Misoo for the Ethereum blockchain.",
-    industry: ["Generative Art"],
+    industry: ["Art"],
     dashboardURL:
       "https://thirdweb.com/ethereum/0xf59a85bbc5395055bff472ea08da0e21ab5aea83/",
   },
@@ -692,7 +692,7 @@ export const projects: ProjectType[] = [
     FeaturesUsed: "NFT Drop",
     description:
       "Secret Food Society Series #002 is an NFT collection consisting of 1405 trading cards.",
-    industry: ["Generative Art"],
+    industry: ["Art"],
   },
   {
     title: "Shibabets",
@@ -704,8 +704,8 @@ export const projects: ProjectType[] = [
     FeaturesUsed: "NFT Drop",
     Blockchain: "Ethereum",
     description:
-      "Photography meets generative art - 150 algorithmic variations on a single photograph. Rarity Traits, 4k Resolution, ERC-721 tokens.Free mint as a gift to the web3 community.",
-    industry: ["Generative Art", "Photography"],
+      "Photography meets Art - 150 algorithmic variations on a single photograph. Rarity Traits, 4k Resolution, ERC-721 tokens.Free mint as a gift to the web3 community.",
+    industry: ["Art", "Photography"],
   },
   {
     title: "Signs of Life",
@@ -725,7 +725,7 @@ export const projects: ProjectType[] = [
     FeaturesUsed: "NFT Drop",
     Blockchain: "Ethereum",
     description: "Advanced generative PFP Smircs",
-    industry: ["Generative Art", "PFP"],
+    industry: ["Art", "PFP"],
     dashboardURL:
       "https://thirdweb.com/ethereum/0x15fd0f20218967725e6b34a2881dc260d7e9d860/",
   },
@@ -839,7 +839,7 @@ export const projects: ProjectType[] = [
     FeaturesUsed: "NFT Drop",
     description:
       "3D immersive landscape using NFT Drop + paper checkout to mint tickets",
-    industry: ["Media/Music/Video", "Metaverse"],
+    industry: ["Media", "Metaverse"],
   },
   {
     title: "The Rugged",
@@ -848,7 +848,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "The Rugged is a NFT studio that works on inspired NFT projects from shows like the Originals and book such as the Box.",
-    industry: ["Creative Art", "Media/Music/Video"],
+    industry: ["Art", "Media"],
   },
   {
     title: "The Squibbles",
@@ -913,7 +913,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Polygon",
     description:
       "UPUNKS is a generated 10,000 NFT With a unique traitsUPUNKS is an NFT collection INSPIRED by CRYPTOPUNKS based on the POLYGON blockchain.",
-    industry: ["Generative Art"],
+    industry: ["Art"],
     dashboardURL:
       "https://thirdweb.com/polygon/0x545df7517802d042e0308d7190973daca684a596/",
   },
@@ -924,7 +924,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       'The NFT Lava Lamp project is a collection of 1000 Utility Art NFTs. 888 of which are randomly generated to start! Each features background designs from my collection "Geometric NFT Prints" and is an admission into The Virtual Void collective as an official member. Holders of this NFT will receive 10% off The Virtual Void merch and a raffle position just for NFT Lava Lamp holder giveaways! Owners also are invited to join special channels and spaces on social media! Galaxy Gradient and Designed Base versions exist to offer exclusive perks to their collectors. Of the original 888 the 1st batch of 100 will mint for .0038 ETH. 2nd batch of 350 for .008 ETH. 3rd batch for .038 ETH. 2 to each wallet with mint at TheVirtualVoid.com',
-    industry: ["Generative Art"],
+    industry: ["Art"],
   },
   {
     title: "vo2 Fans",
@@ -950,7 +950,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Ethereum",
     description:
       "Featuring real-life benefits, the We Are SG project aims to make NFTs relevant to all kiasus and kaypohs through an ownership experience that captures all there is to know and love about the +65.",
-    industry: ["Generative Art", "Media/Music/Video", "Membership"],
+    industry: ["Art", "Media", "Membership"],
     dashboardURL:
       "https://thirdweb.com/ethereum/0xa2d54d463a33ff10956428ef8fa5ba0027401071/",
   },
@@ -977,7 +977,7 @@ export const projects: ProjectType[] = [
     title: "Wombo",
     url: "https://www.wombo.art/",
     FeaturesUsed: "Collection, Marketplace, Signature Based Minting",
-    description: "Generative art creator",
+    description: "Art creator",
   },
   {
     title: "Yes Theory",
@@ -1010,7 +1010,7 @@ export const projects: ProjectType[] = [
     Blockchain: "Polygon",
     description:
       "Large YouTube media brand using NFT’s to launch a new model for both funding and creating community ownership in media projects starting with “Project Iceman” documentary:1. Ticket NFT’s to be used for watching the premier2. VIP NFT’s for exclusive perks3. Selling of clips of the movie to own and get mentioned on movie credits4. Token gated viewing of the documentary online",
-    industry: ["Creative Art"],
+    industry: ["Art"],
     dashboardURL:
       "https://thirdweb.com/polygon/0xb83638045cd6f9417e8fdeddd22b1fa0188600d3/",
   },
