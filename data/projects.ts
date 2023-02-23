@@ -1045,11 +1045,6 @@ export const projects: ProjectType[] = [
     industry: ["Gaming"],
   },
   {
-    title: "Hack Or Die",
-    url: "https://readyplayer3.devpost.com/submissions/390704-hack-or-die",
-    industry: ["Gaming"],
-  },
-  {
     title: "Okan",
     url: "https://readyplayer3.devpost.com/submissions/390901-okan",
     industry: ["Gaming"],
