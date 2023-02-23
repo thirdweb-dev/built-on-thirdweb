@@ -41,10 +41,10 @@ const Projects: FC = () => {
     "Fashion",
     "Finance",
     "Gaming",
-    "Music",
-    "Other",
-    "Social Media",
-    "Tech",
+    "Media",
+    "DAO",
+    "Dev Tool",
+    "Photography",
   ];
 
   return (
