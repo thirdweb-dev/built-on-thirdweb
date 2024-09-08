@@ -41,7 +41,7 @@ export const Hero: FC = () => {
             A collection of projects built on thirdweb
           </Text>
           <Flex gap={4} flexDir={{ base: "column", md: "row" }}>
-            <NextLink href="/#projects">
+            <NextLink href="/projects">
               <Button
                 background="rgba(255,255,255,1)"
                 _hover={{

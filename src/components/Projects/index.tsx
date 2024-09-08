@@ -37,14 +37,14 @@ const Projects: FC = () => {
 
   const options = [
     "All",
-    "Art",
-    "Fashion",
-    "Finance",
+    "Analytics",
+    "Consumer App",
+    "DeFi",
     "Gaming",
-    "Music",
-    "Other",
-    "Social Media",
-    "Tech",
+    "NFT",
+    "NFT-Fi",
+    "Real World Assets",
+    "Trading",
   ];
 
   return (

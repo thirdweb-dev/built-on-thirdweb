@@ -4,7 +4,7 @@ import MainLayout from "@/Layouts/MainLayout";
 import { VStack } from "@chakra-ui/react";
 import type { FC } from "react";
 
-const Home: FC = () => {
+const ProjectsPage: FC = () => {
   return (
     <MainLayout>
       <VStack
@@ -17,10 +17,10 @@ const Home: FC = () => {
         w="full"
         zIndex={2}
       >
-        <Hero />
+        <Projects />
       </VStack>
     </MainLayout>
   );
 };
 
-export default Home;
+export default ProjectsPage;

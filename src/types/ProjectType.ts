@@ -1,5 +1,7 @@
 interface ProjectType {
+
   title: string;
+  
   url?: string;
   description?: string;
   dashboardURL?: string;
